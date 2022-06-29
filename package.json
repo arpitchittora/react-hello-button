@@ -2,7 +2,6 @@
   "name": "react-hello-button",
   "version": "1.0.0",
   "description": "React component for angular uses",
-  "author": "Arpit Chittora",
   "license": "MIT",
   "repository": "arpitchittora/react-hello-button",
   "main": "dist/index.js",
@@ -11,6 +10,16 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "react",
+    "button",
+    "heelo-react"
+  ],
+  "author": {
+    "name": "Arpit Chittora",
+    "email": "arpitchittora1995@gmail.com"
+  },
+   "homepage": "https://github.com/arpitchittora/react-hello-button",
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
